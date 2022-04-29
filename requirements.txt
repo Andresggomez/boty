@@ -1,0 +1,6 @@
+binance-connector==1.5.0
+pandas==1.4.0
+requests~=2.25.1
+djangorestframework==3.11.0
+pandas-ta==0.3.14b
+matplotlib==3.5.1
